@@ -1,0 +1,21 @@
+﻿# Ignorar entorno y artefactos de build
+venv/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+*.whl
+*.so
+*.pyd
+*.dll
+*.exe
+*.log
+*.spec
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
